@@ -10,3 +10,5 @@ Jotting down the happenings of my coding life.
 8/12/21 - Lamest entry yet, i know, 4 days but still.  Got the buttons to move to the center, kinda.  They stayed inline and stopped hopping on top of eachother but everything is still slightly off to the right. Something funky going on with my centering. I'm gonna have to go read some more tomorrow.  I'll try to keep the lame coding sessions to a minimum going forward.
 
 8/13/21 - I got the google logo and search bar/buttons centered horizontally on the screen.  I had to tinker with the width of the elements for some reason.  Next task is centering them vertically.   I also floated over a couple of my nav bar items to the right side on the top nav bar.  So its slowly coming together.
+
+8/14/21 - Tweaked some things and tried to get it centered vertically and it screwed everything up. So I put it back.  That is all.
