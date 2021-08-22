@@ -1,6 +1,8 @@
 # CodeJournal
 Jotting down the happenings of my coding life. Also reversed the post order so I won't have to scroll down to the bottom each time to write a new post.
 
+8/21/21 - Worked on a problem that utilized nested lists and replaced data with a new value.  Also started working on coding the rock, paper, scissors game.  I thought I had worked on that the other day but it was a different one. This will be the last project for day 4.
+
 8/19/21 - I built a small program to decide who pays the check after a meal.  It used the random module to pick out a name that I had added to a list from user input.  Took a couple tries to get the syntax correct but it works. I even through a for loop in at the end to make it run through it 10 times and see how random it was.  Looked good to me.  I'll prob erase it and make a couple more just to let it sink in.  
 
 8/18/21 - So I had to go back pretty far to refresh some things I used to remember no prop (see what happens when you wander off too long).  I reviewed the random module and if/else statements and coded a coin flip and paper,rock,scissors game.  I then started in on lists and appending to them.  I'll keep going with it tomorrow, prob remind myself what the for loops look like and hope to iterate through lists.  Reviewing, a necessary step when you stop for too long.
