@@ -1,6 +1,8 @@
 # CodeJournal
 Jotting down the happenings of my coding life. Also reversed the post order so I won't have to scroll down to the bottom each time to write a new post.
 
+8/26/21 - Another late start but I got the easy version of the password generator completed. Now I just need to figure out how to mix them all up  instead of spitting them out in order.  I'm sure there is a function that will do that for me.  I'll look it up tomorrow and be done with day 5.
+
 8/25/21 - I continued with day 5, completing the adding even numbers only using a loop and the range function.  I then completed a fizzbuzz challenge easy enough which was supposed to be a common interview challenge.  I wouldn't be so lucky as to get that challenge.  I read the rules on the password generator final challenge but didn't start it cuz its late and I should have started sooner. Getting the input for the number of letters, numbers and symbols sounds easy enough, will have to think about how to get them all jumbled up randomly. I'll sleep on it.
 
 8/24/21 - So I continued on with day 5 and completed a couple more challenges.  I made the average height calculator and then completed the highest score in a list challenge.  It didn't allow us to use shortcuts like max(), min(), or sum().  Instead, they wanted me to utilize loops to gain a better understanding of how they work. This was a bit easier to review and I had minimal cobwebs to complete these projects.  Pushing on.
