@@ -1,6 +1,8 @@
 # CodeJournal
 Jotting down the happenings of my coding life. Also reversed the post order so I won't have to scroll down to the bottom each time to write a new post.
 
+8/28/21 - So i did find the function I was looking for.  I was able to use the shuffle function to mix up the items in my password list I had made.  I then used a for loop to go through the password list and add each character to an empty string which when completed, all I had to do was print the string out.  So Day 5 is completed and its on to day 6.
+
 8/26/21 - Another late start but I got the easy version of the password generator completed. Now I just need to figure out how to mix them all up  instead of spitting them out in order.  I'm sure there is a function that will do that for me.  I'll look it up tomorrow and be done with day 5.
 
 8/25/21 - I continued with day 5, completing the adding even numbers only using a loop and the range function.  I then completed a fizzbuzz challenge easy enough which was supposed to be a common interview challenge.  I wouldn't be so lucky as to get that challenge.  I read the rules on the password generator final challenge but didn't start it cuz its late and I should have started sooner. Getting the input for the number of letters, numbers and symbols sounds easy enough, will have to think about how to get them all jumbled up randomly. I'll sleep on it.
