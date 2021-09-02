@@ -1,7 +1,9 @@
 # CodeJournal
 Jotting down the happenings of my coding life. Also reversed the post order so I won't have to scroll down to the bottom each time to write a new post.
 
-8-31-21 - Finished up Day 6 today.  It threw in a few more Reeborg World challenges including a maze that I had to use while loops and if/elif/else statements to get my robot to the goal location.  Not too troublesome.
+9/1/21 - The challenge for day 7 was to make a hangman game.  I got the dashes set up in my list ok, and ran through the letters but I have an issue with it replacing my guessed letters with the correct letter.  The dashes stay there.  I'll debug it tomorrow.
+
+8/31/21 - Finished up Day 6 today.  It threw in a few more Reeborg World challenges including a maze that I had to use while loops and if/elif/else statements to get my robot to the goal location.  Not too troublesome.
 
 8/29/21 - Worked on Day 6 today. It introduced writing functions and using the While loop.  It primarily used a website called Reeborg's World to program a robot to move around a board.  I wrote functions to compile movement directions for the robot into one line of code.  I also used while loops to allow the code to continue running under certain paramaters.  I should write and complete the final challenge for day 6 tomorrow.
 
