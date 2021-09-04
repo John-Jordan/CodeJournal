@@ -2,6 +2,7 @@
 Jotting down the happenings of my coding life. Also reversed the post order so I won't have to scroll down to the bottom each time to write a new post.
 
 9/3/21 - I didn't really accomplish much today beyond looking at my code and trying to figure out why my code was not replacing the dash with the guessed letter. I'm screwing something up in my for loop. I'm able to print out the numeric positions of each letter in the word but not yet able to replace that number with the guessed letter.  Maybe I can squeeze some more brain time in tomorrow amidst all the football.
+Addendum #1 - So I was using a == to assign the new letter to the position in the list instead of a single =.  So nothing was changing.  Doh.  Moving on to the next part tomorrow.
 
 9/1/21 - The challenge for day 7 was to make a hangman game.  I got the dashes set up in my list ok, and ran through the letters but I have an issue with it replacing my guessed letters with the correct letter.  The dashes stay there.  I'll debug it tomorrow.
 
