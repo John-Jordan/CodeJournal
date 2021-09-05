@@ -1,6 +1,8 @@
 # CodeJournal
 Jotting down the happenings of my coding life. Also reversed the post order so I won't have to scroll down to the bottom each time to write a new post.
 
+9/4/21 - I set up a while loop so I can keep asking for the next letter guess. Worked a little on checking for wrong answers. Don't think I'm putting the decrementing code in the right spot.  If I enter a wrong letter it says "you lose." immediately instead of having 6 lives.  I'll check on that next time.  
+
 9/3/21 - I didn't really accomplish much today beyond looking at my code and trying to figure out why my code was not replacing the dash with the guessed letter. I'm screwing something up in my for loop. I'm able to print out the numeric positions of each letter in the word but not yet able to replace that number with the guessed letter.  Maybe I can squeeze some more brain time in tomorrow amidst all the football.
 Addendum #1 - So I was using a == to assign the new letter to the position in the list instead of a single =.  So nothing was changing.  Doh.  Moving on to the next part tomorrow.
 
