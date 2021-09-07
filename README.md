@@ -1,6 +1,8 @@
 # CodeJournal
 Jotting down the happenings of my coding life. Also reversed the post order so I won't have to scroll down to the bottom each time to write a new post.
 
+9/6/21 - This evening I finished the Day 7 challenge of writing a hangman game.  I added the ascii art and finished adding logic for when I get a letter wrong.  It now shows the correct ascii art for missing a letter and informs the user of their mistake. Looks pretty good if i do say so.  And even better, i understood how it all works. 
+
 9/4/21 - I set up a while loop so I can keep asking for the next letter guess. Worked a little on checking for wrong answers. Don't think I'm putting the decrementing code in the right spot.  If I enter a wrong letter it says "you lose." immediately instead of having 6 lives.  I'll check on that next time.  
 
 9/3/21 - I didn't really accomplish much today beyond looking at my code and trying to figure out why my code was not replacing the dash with the guessed letter. I'm screwing something up in my for loop. I'm able to print out the numeric positions of each letter in the word but not yet able to replace that number with the guessed letter.  Maybe I can squeeze some more brain time in tomorrow amidst all the football.
