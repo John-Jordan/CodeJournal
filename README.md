@@ -1,6 +1,8 @@
 # CodeJournal
 Jotting down the happenings of my coding life. Also reversed the post order so I won't have to scroll down to the bottom each time to write a new post.
 
+9/8/21 - Last night I was helping my daughter with geometry and it sounded a lot like coding. We were working with conditional statements and reformatting sentences and such.  Tonight I moved onto Day 7 which will end with a Cipher program.  I listened to several videos about using functions with inputs and the difference in parameters and arguments. I would have kept going but I felt my head nodding off so I quit before I stopped retaining info.  
+
 9/6/21 - This evening I finished the Day 7 challenge of writing a hangman game.  I added the ascii art and finished adding logic for when I get a letter wrong.  It now shows the correct ascii art for missing a letter and informs the user of their mistake. Looks pretty good if i do say so.  And even better, i understood how it all works. 
 
 9/4/21 - I set up a while loop so I can keep asking for the next letter guess. Worked a little on checking for wrong answers. Don't think I'm putting the decrementing code in the right spot.  If I enter a wrong letter it says "you lose." immediately instead of having 6 lives.  I'll check on that next time.  
