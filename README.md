@@ -1,6 +1,8 @@
 # CodeJournal
 Jotting down the happenings of my coding life. Also reversed the post order so I won't have to scroll down to the bottom each time to write a new post.
 
+9/11/21 - Worked on Day 8 some more today.  I built a prime number app to determine if a number is a prime number then started work on the main challenge problem of building a cipher.  I was able look up how to find the position of a list item and use it to shift each letter in a word the appropriate amount and print out the new word. Hope to finish my cipher tomorrow.
+
 9/10/21 - Built an app that calculated the amount of paint cans required to paint a given wall and use the math roundup function. Defined a function with 3 inputs to use with it.  Worked. More time tomarrow to make progress.
 
 9/8/21 - Last night I was helping my daughter with geometry and it sounded a lot like coding. We were working with conditional statements and reformatting sentences and such.  Tonight I moved onto Day 8 which will end with a Cipher program.  I listened to several videos about using functions with inputs and the difference in parameters and arguments. I would have kept going but I felt my head nodding off so I quit before I stopped retaining info.  
