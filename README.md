@@ -1,5 +1,9 @@
 # CodeJournal
-Jotting down the happenings of my coding life. Also reversed the post order so I won't have to scroll down to the bottom each time to write a new post.
+Jotting down the happenings of my coding life. 
+
+9/14/21 - Began Day 9 which deals with Dictionaries.  This wasn't my strongest area last time through so looking to solidify some logic this time.  I was able to complete the first challenge of looping through values in a dictionary and listing the keys with new values in a new dictionary.  Got it the first time so that is a win. Tomorrow we work on nested dictionaries which can cause brain strain, at least for me trying to keep it all straight.
+
+9/12/21 - Completed Day 8 today.  I was able to write a small app that would encode and decode a message by shifting the characters to the left or right.  I built in contingencies for a user entering different symbols as well as inputting a large shift number. I feel pretty good about the logic of the programs i've created so far. 
 
 9/11/21 - Worked on Day 8 some more today.  I built a prime number app to determine if a number is a prime number then started work on the main challenge problem of building a cipher.  I was able look up how to find the position of a list item and use it to shift each letter in a word the appropriate amount and print out the new word. Hope to finish my cipher tomorrow.
 
