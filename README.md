@@ -1,6 +1,8 @@
 # CodeJournal
 Jotting down the happenings of my coding life. 
 
+9/18/21 - So I finished Day 9 but not without sratching my head a few dozen times.  Definitely had to go back and review the lesson a few times and look at how she set it up before it started to make sense to me. I know dictionaries make sense in a lot of situations but I much prefer lists if i can get away with it.
+
 9/17/21 - I gotta stop waiting so late to get started on my coding. I rewatched the video on nesting dicionaries but then i about fell asleep so that's what i'm gonna do.  I'll have time tomorrow to spend some quality time with this Day and move on.
 
 9/16/21 - Sometimes my brain just lets me down. I felt like I understood the intro to nesting dictionaries/lists and appending a dictionary to a list but then I start the new challenge and my brain fails me. I'll go back and watch the previous video tomorrow. Argh.
