@@ -1,6 +1,8 @@
 # CodeJournal
 Jotting down the happenings of my coding life. 
 
+9/17/21 - I gotta stop waiting so late to get started on my coding. I rewatched the video on nesting dicionaries but then i about fell asleep so that's what i'm gonna do.  I'll have time tomorrow to spend some quality time with this Day and move on.
+
 9/16/21 - Sometimes my brain just lets me down. I felt like I understood the intro to nesting dictionaries/lists and appending a dictionary to a list but then I start the new challenge and my brain fails me. I'll go back and watch the previous video tomorrow. Argh.
 
 9/14/21 - Began Day 9 which deals with Dictionaries.  This wasn't my strongest area last time through so looking to solidify some logic this time.  I was able to complete the first challenge of looping through values in a dictionary and listing the keys with new values in a new dictionary.  Got it the first time so that is a win. Tomorrow we work on nested dictionaries which can cause brain strain, at least for me trying to keep it all straight.
