@@ -1,6 +1,8 @@
 # CodeJournal
 Jotting down the happenings of my coding life. 
 
+9/27/21 - Busy times. Got started on my calculator app with the keys being operation symbols and the values being the name such as addition, subtraction, etc. 
+
 9/22/21 - Started on Day 10. Learning about using the return statement and getting outputs from functions.  Will be making a calculator at the end. Classic.
 
 9/18/21 - So I finished Day 9 but not without sratching my head a few dozen times.  Definitely had to go back and review the lesson a few times and look at how she set it up before it started to make sense to me. I know dictionaries make sense in a lot of situations but I much prefer lists if i can get away with it.
